@@ -3,7 +3,7 @@
 
 
         {
-            "spider":"./666.jar",
+            "spider":"https://jihulab.com/kgsp/tv/raw/box/666.jar",
             "wallpaper":"http://tool.teyonds.com/api",
             "warningText":"坤哥视频温馨提示：软件接口完全免费",
 
@@ -11,7 +11,7 @@
         {
             "name":"live",
             "type":0,
-            "url":"./666.txt",
+            "url":"https://jihulab.com/kgsp/tv/raw/box/666.txt",
             "playerType":1
         }
         ],
@@ -23,8 +23,8 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "api":"./drpy.min.js",
-            "ext":"./666.js"
+            "api":"https://jihulab.com/kgsp/tv/raw/box/drpy.min.js",
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/666.js"
         },
         {
             "key":"玩偶",
@@ -52,8 +52,8 @@
             "type":3,
             "api":"csp_qiao2",
             "playerType":1,
-            "jar":"./111.jar",
-            "ext":"./坤哥视频.json"
+            "jar":"https://jihulab.com/kgsp/tv/raw/box/111.jar",
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/坤哥视频.json"
         },
         {
             "key":"腾讯",
@@ -62,8 +62,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "api":"./drpy.min.js",
-            "ext":"./腾讯视频.js"
+            "api":"https://jihulab.com/kgsp/tv/raw/box/drpy.min.js",
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/腾讯视频.js"
         },
         {
             "key":"奇艺",
@@ -72,8 +72,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "api":"./drpy.min.js",
-            "ext":"./奇艺视频.js"
+            "api":"https://jihulab.com/kgsp/tv/raw/box/drpy.min.js",
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/奇艺视频.js"
         },
         {
             "key":"优酷",
@@ -82,8 +82,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "api":"./drpy.min.js",
-            "ext":"./优酷视频.js"
+            "api":"https://jihulab.com/kgsp/tv/raw/box/drpy.min.js",
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/优酷视频.js"
         },
         {
             "key":"芒果",
@@ -92,8 +92,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "api":"./drpy.min.js",
-            "ext":"./芒果视频.js"
+            "api":"https://jihulab.com/kgsp/tv/raw/box/drpy.min.js",
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/芒果视频.js"
         },
         {
             "key":"七七",
@@ -112,7 +112,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./俩伍视频.json"
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/俩伍视频.json"
         },
         {
             "key":"555",
@@ -122,7 +122,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./仨伍视频.json"
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/仨伍视频.json"
         },
         {
             "key":"348",
@@ -132,7 +132,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./仨肆视频.json"
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/仨肆视频.json"
         },
         {
             "key":"达达龟",
@@ -142,7 +142,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./达龟视频.json"
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/达龟视频.json"
         },
         {
             "key":"圣城",
@@ -152,7 +152,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./狮城视频.json"
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/狮城视频.json"
         },
         {
             "key":"黑狐",
@@ -162,7 +162,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./黑狐视频.json"
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/黑狐视频.json"
         },
         {
             "key":"极狐",
@@ -171,8 +171,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "api":"./drpy.min.js",
-            "ext":"./极狐视频.js"
+            "api":"https://jihulab.com/kgsp/tv/raw/box/drpy.min.js",
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/极狐视频.js"
         },
         {
             "key":"孜然",
@@ -181,8 +181,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "api":"./drpy.min.js",
-            "ext":"./孜然视频.js"
+            "api":"https://jihulab.com/kgsp/tv/raw/box/drpy.min.js",
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/孜然视频.js"
         },
         {
             "key":"大米星球",
@@ -191,8 +191,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "api":"./drpy.min.js",
-            "ext":"./大米视频.js"
+            "api":"https://jihulab.com/kgsp/tv/raw/box/drpy.min.js",
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/大米视频.js"
         },
         {
             "key":"我爱跟剧",
@@ -201,8 +201,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "api":"./drpy.min.js",
-            "ext":"./莴苣视频.js"
+            "api":"https://jihulab.com/kgsp/tv/raw/box/drpy.min.js",
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/莴苣视频.js"
         },
         {
             "key":"南瓜",
@@ -212,7 +212,25 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "jar":"./111.jar"
+            "jar":"https://jihulab.com/kgsp/tv/raw/box/111.jar"
+        },
+        {
+            "key":"极光",
+            "name":"极光视频",
+            "type":3,
+            "api": "csp_Skapp",
+            "playerType":1,
+            "jar":"https://jihulab.com/kgsp/tv/raw/box/111.jar",
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/极光视频.json"
+        },
+        {
+            "key":"星星",
+            "name":"星奇视频",
+            "type":3,
+            "api":"csp_qiao",
+            "playerType":1,
+            "jar":"https://jihulab.com/kgsp/tv/raw/box/111.jar",
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/星奇视频.json"
         },
         {
             "key":"天天",
@@ -220,35 +238,27 @@
             "type":3,
             "api":"csp_TTian",
             "playerType":1,
-            "jar":"./111.jar",
+            "jar":"https://jihulab.com/kgsp/tv/raw/box/111.jar",
             "ext":"http://op.ysdqjs.cn"
-        },
-        {
-            "key":"热播",
-            "name":"热播视频",
-            "type":3,
-            "api":"csp_TTian",
-            "playerType":1,
-            "jar":"./111.jar",
-            "ext":"http://v.rbotv.cn"
-        },
-        {
-            "key":"追剧",
-            "name":"追剧视频",
-            "type":3,
-            "api":"csp_TTian",
-            "playerType":1,
-            "jar":"./111.jar",
-            "ext":"http://app.kzjtv.com"
         },
         {
             "key":"云播",
             "name":"云播视频",
             "type":3,
             "api":"csp_Skapp",
-            "playerType":1,
-            "jar":"./111.jar",
-            "ext":"./云港视频.json"
+            "playerType":2,
+            "jar":"https://jihulab.com/kgsp/tv/raw/box/111.jar",
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/云港视频.json"
+        },
+        {
+            "key":"盒子",
+            "name":"盒子视频",
+            "type":3,
+            "api":"csp_XBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/盒子视频.json"
         },
         {
             "key":"量子",
@@ -258,17 +268,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"./量子视频.json"
-        },
-        {
-            "key":"看看",
-            "name":"看看视频",
-            "type":3,
-            "api":"csp_KanKan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "jar":"./111.jar"
+            "ext":"https://jihulab.com/kgsp/tv/raw/box/量子视频.json"
         },
         {
             "key":"快看",
